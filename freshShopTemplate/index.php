@@ -1,3 +1,3 @@
-<?php
+<?php 
 
-require('viewIndex.php');
+include('views/viewIndex.php');
