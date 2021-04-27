@@ -2,7 +2,7 @@
 <html lang="en">
 <!-- Basic -->
 
-<?php include('meta.php'); ?>
+<?php require('meta.php'); ?>
 
 <body>
     <!-- Start Main Top -->
