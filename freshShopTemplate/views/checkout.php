@@ -2,7 +2,7 @@
 <html lang="en">
 <!-- Basic -->
 
-<?php include('meta.php') ?>
+<?php include('meta.php'); ?>
 
 <body>
     <!-- Start Main Top -->
@@ -72,7 +72,7 @@
     <!-- End Main Top -->
 
     <!-- Start Main Top -->
-    <?php include('header.php') ?>
+    <?php include('header.php'); ?>
     <!-- End Main Top -->
 
     <!-- Start Top Search -->

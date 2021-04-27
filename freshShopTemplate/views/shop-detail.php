@@ -2,7 +2,7 @@
 <html lang="en">
 <!-- Basic -->
 
-<?php include('meta.php') ?>
+<?php include('meta.php'); ?>
 
 <body>
     <!-- Start Main Top -->
@@ -71,7 +71,7 @@
     </div>
     <!-- End Main Top -->
 
-    <?php include('header.php') ?>
+    <?php include('header.php'); ?>
 
     <!-- Start Top Search -->
     <div class="top-search">
