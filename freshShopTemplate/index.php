@@ -1,4 +1,4 @@
 <?php 
 require('php/model.php');
 
-include('views/viewIndex.php');
+require('views/viewIndex.php');
