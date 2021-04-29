@@ -18,20 +18,20 @@
             <div class="collapse navbar-collapse" id="navbar-menu">
                 <ul class="nav navbar-nav ml-auto" data-in="fadeInDown" data-out="fadeOutUp">
                     <li class="nav-item"><a class="nav-link" href="../index.php">Home</a></li>
-                    <li class="nav-item active"><a class="nav-link" href="../about.php">About Us</a></li>
+                    <li class="nav-item active"><a class="nav-link" href="views/about.php">About Us</a></li>
                     <li class="dropdown">
                         <a href="#" class="nav-link dropdown-toggle arrow" data-toggle="dropdown">SHOP</a>
                         <ul class="dropdown-menu">
-                            <li><a href="../shop.php">Sidebar Shop</a></li>
-                            <li><a href="../shop-detail.php">Shop Detail</a></li>
-                            <li><a href="../cart.php">Cart</a></li>
-                            <li><a href="../checkout.php">Checkout</a></li>
-                            <li><a href="../my-account.php">My Account</a></li>
-                            <li><a href="../wishlist.php">Wishlist</a></li>
+                            <li><a href="views/shop.php">Sidebar Shop</a></li>
+                            <li><a href="views/shop-detail.php">Shop Detail</a></li>
+                            <li><a href="views/cart.php">Cart</a></li>
+                            <li><a href="views/checkout.php">Checkout</a></li>
+                            <li><a href="views/my-account.php">My Account</a></li>
+                            <li><a href="views/wishlist.php">Wishlist</a></li>
                         </ul>
                     </li>
-                    <li class="nav-item"><a class="nav-link" href="../gallery.php">Gallery</a></li>
-                    <li class="nav-item"><a class="nav-link" href="../contact-us.php">Contact Us</a></li>
+                    <li class="nav-item"><a class="nav-link" href="views/gallery.php">Gallery</a></li>
+                    <li class="nav-item"><a class="nav-link" href="views/contact-us.php">Contact Us</a></li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
